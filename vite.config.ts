@@ -7,5 +7,5 @@ export default defineConfig({
   optimizeDeps: {
     exclude: ['lucide-react'],
   },
-  base: '/brukana24.github.io',
+  base: '/luciusprime1',
 });
